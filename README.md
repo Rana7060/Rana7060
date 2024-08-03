@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Rana7060
-- 👀 I’m interested in Coding cool designs
-- 🌱 I’m currently learning React| Redux in depth
-- 💞️ I’m looking to collaborate on React - typescript - web design projects
 - 📫 How to reach me email: ranaameer7260@gmail.com
 
 <!---
